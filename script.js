@@ -1,15 +1,6 @@
 const cities = [
-  { name: "Bafoussam", region: "Ouest" },
-  { name: "Dschang", region: "Ouest" },
-  { name: "Mbouda", region: "Ouest" },
-  { name: "Bangangté", region: "Ouest" },
-  { name: "Foumban", region: "Ouest" },
-  { name: "Douala", region: "Littoral" },
-  { name: "Edéa", region: "Littoral" },
-  { name: "Nkongsamba", region: "Littoral" },
-  { name: "Manjo", region: "Littoral" },
-  { name: "Yaoundé", region: "Centre" },
-  { name: "Mbalmayo", region: "Centre" },
+
+  { name: "Mbalmayo", region: "Centre" }, 
   { name: "Bafia", region: "Centre" },
   { name: "Eséka", region: "Centre" },
   { name: "Obala", region: "Centre" },
@@ -33,6 +24,8 @@ const cities = [
   { name: "Meiganga", region: "Adamaoua" },
   { name: "Tibati", region: "Adamaoua" },
   { name: "Banyo", region: "Adamaoua" },
+  { name: "Ngoum Petel", region: "Adamaoua" }, //Toutou Caleb
+  { name: "Ngaouyanga", region: "Adamaoua" },//Toutou Caleb
   { name: "Bamenda", region: "Nord-Ouest" },
   { name: "Kumbo", region: "Nord-Ouest" },
   { name: "Wum", region: "Nord-Ouest" },
