@@ -133,5 +133,6 @@ Aucune licence n'est spécifiée pour le moment. Ajoutez un fichier
 la réutilisation et la modification du code.
 
 ------------------------------------------------------------------------
+Projet reçu et Modifié par l'équipe Kurain, ajout de villes et changement de couleurs // Modifier par Toutou Caleb
 
-Développé avec ❤️ pour mettre en valeur les villes du Cameroun. 🇨🇲
+

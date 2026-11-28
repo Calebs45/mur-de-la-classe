@@ -2,11 +2,11 @@
 
 :root {
   --green: #087a4b;
-  --green-dark: #064b34;
+  --green-dark: #0ea472;
   --yellow: #f4c542;
-  --red: #c83b3b;
+  --red: #c42f2f;
   --ink: #17251f;
-  --muted: #718078;
+  --muted: #1b2b22;
   --paper: #f6f8f5;
 }
 * { box-sizing: border-box; }
@@ -15,12 +15,12 @@ body { margin: 0; background: var(--paper); color: var(--ink); font-family: 'DM 
 .hero {
   min-height: 440px; position: relative; overflow: hidden; color: white;
   background: linear-gradient(120deg, rgba(4,48,34,.97), rgba(7,119,72,.88)),
-              radial-gradient(circle at 80% 20%, #f4c542, transparent 35%);
+              radial-gradient(circle at 80% 20%, #100d05, transparent 35%);
   padding: 24px max(6vw, 24px) 76px;
 }
 .topbar { display:flex; justify-content:space-between; align-items:center; max-width:1180px; margin:auto; }
 .brand { color:white; text-decoration:none; font-weight:700; letter-spacing:2px; }
-.topbar-note { color:rgba(255,255,255,.72); font-size:.9rem; }
+.topbar-note { color:rgba(0, 0, 0, 0.72); font-size:.9rem; }
 .hero-content { max-width:1180px; margin:78px auto 0; position:relative; z-index:2; }
 .eyebrow { text-transform:uppercase; letter-spacing:3px; font-size:.72rem; font-weight:700; color:var(--yellow); }
 h1 { font-family:'Playfair Display',serif; font-size:clamp(3rem,7vw,5.7rem); line-height:1.04; max-width:760px; margin:15px 0; }
